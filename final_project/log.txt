@@ -1,0 +1,155 @@
+[LOG] Initializing Game ...
+[LOG] Initialized Allegro
+[LOG] Initialized Window Display
+[LOG] Initialized Event Queue and Source
+[LOG] Change scene from NULL to menu
+[LOG] Scene menu created, initializing ... 
+[LOG] Start Game Event Loop
+[LOG] Key 216 down
+[LOG] Key 216 up
+[LOG] Key 67 down
+[LOG] Change scene from menu to loading
+[LOG] No BGM File found [None], no sound will be played
+[LOG] Key 67 up
+[LOG] Change scene from loading to game
+[LOG] Using Assets/map0.txt to load the map
+[LOG] Total Coins: 4
+[LOG] Creating Enemy at ( 6, 3 )
+[LOG] Creating Enemy at ( 15, 3 )
+[LOG] Creating Enemy at ( 17, 19 )
+[LOG] coord x:1 
+ coords y:3 
+
+[LOG] Key 19 down
+[LOG] Key 4 down
+[LOG] Key 19 up
+[LOG] Key 4 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 59 down
+[LOG] Key 59 up
+[LOG] Key 19 down
+[LOG] Key 1 down
+[LOG] Key 19 up
+[LOG] Key 1 up
+[LOG] Key 4 down
+[LOG] Key 19 down
+[LOG] Key 19 up
+[LOG] Key 23 down
+[LOG] Key 23 up
+[LOG] Key 19 down
+[LOG] Key 4 up
+[LOG] Key 1 down
+[LOG] Key 1 up
+[LOG] Key 1 down
+[LOG] Key 19 up
+[LOG] Key 4 down
+[LOG] Key 1 up
+[LOG] Key 4 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 1 down
+[LOG] Key 19 down
+[LOG] Key 4 down
+[LOG] Key 1 up
+[LOG] Key 19 up
+[LOG] Key 4 up
+[LOG] Key 1 down
+[LOG] Key 1 up
+[LOG] Key 23 down
+[LOG] Key 4 down
+[LOG] Key 23 up
+[LOG] Key 4 up
+[LOG] Change scene from game to Winning
+[LOG] Using Assets/map0.txt to load the map
+[LOG] Total Coins: 4
+[LOG] Creating Enemy at ( 6, 3 )
+[LOG] Creating Enemy at ( 15, 3 )
+[LOG] Creating Enemy at ( 17, 19 )
+[LOG] coord x:1 
+ coords y:3 
+
+[LOG] Key 67 down
+[LOG] Change scene from Winning to menu
+[LOG] Key 67 up
+[LOG] Change scene from menu to setting
+[LOG] Change scene from setting to menu
+[LOG] Key 67 down
+[LOG] Change scene from menu to loading
+[LOG] No BGM File found [None], no sound will be played
+[LOG] Key 67 up
+[LOG] Change scene from loading to game
+[LOG] Using Assets/map0.txt to load the map
+[LOG] Total Coins: 4
+[LOG] Creating Enemy at ( 6, 3 )
+[LOG] Creating Enemy at ( 15, 3 )
+[LOG] Creating Enemy at ( 17, 19 )
+[LOG] coord x:1 
+ coords y:3 
+
+[LOG] Key 29 down
+[LOG] Key 29 up
+[LOG] Key 4 down
+[LOG] Key 19 down
+[LOG] Key 19 up
+[LOG] Key 4 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 4 down
+[LOG] Key 23 down
+[LOG] Key 23 up
+[LOG] Key 19 down
+[LOG] Key 19 up
+[LOG] Key 4 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 1 down
+[LOG] Key 1 up
+[LOG] Key 1 down
+[LOG] Key 19 down
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 19 up
+[LOG] Key 4 down
+[LOG] Key 1 up
+[LOG] Key 1 down
+[LOG] Key 4 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 1 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 1 down
+[LOG] Key 19 down
+[LOG] Key 4 down
+[LOG] Key 19 up
+[LOG] Key 4 up
+[LOG] Key 19 down
+[LOG] Key 19 up
+[LOG] Key 4 down
+[LOG] Key 4 up
+[LOG] Key 4 down
+[LOG] Key 23 down
+[LOG] Key 1 up
+[LOG] Key 23 up
+[LOG] Key 23 down
+[LOG] Key 4 up
+[LOG] Key 23 up
+[LOG] Change scene from game to losing
+[LOG] Using Assets/map0.txt to load the map
+[LOG] Total Coins: 4
+[LOG] Creating Enemy at ( 6, 3 )
+[LOG] Creating Enemy at ( 15, 3 )
+[LOG] Creating Enemy at ( 17, 19 )
+[LOG] coord x:1 
+ coords y:3 
+
+[LOG] Key 67 down
+[LOG] Change scene from losing to menu
+[LOG] Key 67 up
+[LOG] Window close button pressed
+[LOG] Terminating ...

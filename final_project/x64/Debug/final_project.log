@@ -1,0 +1,4 @@
+﻿  game_scene.c
+C:\Users\Nono\source\repos\final_project\final_project\Src\game_scene.c(564,19): warning C4047: '函式': 'Weapon *' 與 'Weapon (*)[2]' 間接取值的層級不同
+C:\Users\Nono\source\repos\final_project\final_project\Src\game_scene.c(564,19): warning C4024: 'delete_weapon': 型式和實質參數 1 不同的類型
+  final_project.vcxproj -> C:\Users\Nono\source\repos\final_project\x64\Debug\final_project.exe
